@@ -1,5 +1,5 @@
 {
-  "name": "npm-publisher",
+  "name": "npm-publishing",
   "version": "1.0.0",
   "description": "npm publish library",
   "main": "dist/index.js",
