@@ -1,6 +1,6 @@
 {
   "name": "@srivassumit/npm-publish",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "npm publish library",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -21,7 +21,8 @@
     "url": "https://github.com/srivassumit/npm-publisher/issues"
   },
   "files": [
-    "dist/**/*"
+    "dist/**/*",
+    "script"
   ],
   "homepage": "https://github.com/srivassumit/npm-publisher#readme",
   "devDependencies": {
