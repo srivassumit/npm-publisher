@@ -1,6 +1,6 @@
 {
-  "name": "npm-publisher",
-  "version": "1.0.0",
+  "name": "npm-publishing",
+  "version": "0.0.1",
   "description": "npm publish library",
   "main": "dist/index.js",
   "scripts": {
