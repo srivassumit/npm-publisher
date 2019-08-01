@@ -1,0 +1,25 @@
+{
+  "name": "npm-publisher",
+  "version": "0.0.1",
+  "description": "npm publish library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srivassumit/npm-publisher.git"
+  },
+  "author": "Sumit Srivastava <srivassumit@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/srivassumit/npm-publisher/issues"
+  },
+  "homepage": "https://github.com/srivassumit/npm-publisher#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "typescript": "^3.5.3"
+  }
+}
